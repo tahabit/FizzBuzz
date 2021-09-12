@@ -1,5 +1,4 @@
 """
-File: fizzbuzz_functions.py
 --------------------
 This program plays the game fizzbuzz up to a given number entered by the user.
 """
